@@ -8,12 +8,12 @@
     <input type="text" placeholder="Enter Full Rahul" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter phone number</b></label>
+    <label for="mobile"><b>Enter phone</b></label>
     <input type="text" placeholder="Enter phone number" name="mobile" id="mobile" required>
     <br>
     
-    <label for="mobile"><b>Enter bye</b></label>
-    <input type="text" placeholder="Enter Rahul moible number" name="mobile" id="mobile" required>
+    <label for="mobile"><b>Enter mobile</b></label>
+    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter myEmail</b></label>
